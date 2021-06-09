@@ -1,12 +1,12 @@
 # EasyIntern
 Python script to scrape internship opportunities from Internshala in form of csv file.
 
-##Technologies Used:
+## Technologies Used:
 - Python
 - BeutifulSoup
 - Csv Reader
 
-##CSV format:
+## CSV format:
 - Name
 - Company
 - Location
