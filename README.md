@@ -11,4 +11,4 @@ Python script to scrape internship opportunities from Internshala in form of csv
 - Company
 - Location
 - Start Date
-- Link to apply
+- Link to apply for opening
